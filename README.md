@@ -42,7 +42,9 @@ To get a local copy up and running, follow these steps.
    ```sh
    git clone https://github.com/your_username/kai.git
    ```
-2.Install dependencies
+
+2. Install dependencies
+
    ```sh 
     flutter pub get
    ```
@@ -53,7 +55,7 @@ To get a local copy up and running, follow these steps.
 4. Usage
    - Open the app.
    - Enter a text prompt in the input field.
-   - Press the "Generate Image" button.
+   - Press the "Generate" button.
    - The generated image will be displayed.
 
 ## Screenshots

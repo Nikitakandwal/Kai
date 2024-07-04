@@ -46,7 +46,7 @@ To get a local copy up and running, follow these steps.
 2. Install dependencies
 
    ```sh 
-    flutter pub get
+   flutter pub get
    ```
 3. Run the app
    ```sh 

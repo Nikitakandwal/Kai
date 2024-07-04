@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Nikitakandwal/kai/assets/98966392/7c3ada4e-34d4-411e-90e4-ce39f39a505d" width="250">
+</p>
+
+
 # KAI - Flutter Text to Image Generator App
 
 KAI is a Flutter application that generates images from text prompts using the Stable Diffusion model. This app demonstrates the integration of a text-to-image generation API, state management with Riverpod, and theming with Google Fonts.
@@ -36,21 +41,35 @@ To get a local copy up and running, follow these steps.
 1. Clone the repo
    ```sh
    git clone https://github.com/your_username/kai.git
-Install dependencies
-sh
-Copy code
-flutter pub get
-Run the app
-sh
-Copy code
-flutter run
-Usage
-Open the app.
-Enter a text prompt in the input field.
-Press the "Generate Image" button.
-The generated image will be displayed.
+   ```
+2.Install dependencies
+   ```sh 
+    flutter pub get
+   ```
+3. Run the app
+   ```sh 
+   flutter run
+   ```
+4. Usage
+   - Open the app.
+   - Enter a text prompt in the input field.
+   - Press the "Generate Image" button.
+   - The generated image will be displayed.
 
-Screenshot
+## Screenshots
 
-License
-Distributed under the MIT License. See LICENSE for more information.
+1. Light Mode
+   
+<img src="https://github.com/Nikitakandwal/kai/assets/98966392/65789a17-1e6a-4c7d-a062-5cbd71e246c6" width="300">
+
+2. Dark Mode
+   
+<img src="https://github.com/Nikitakandwal/kai/assets/98966392/9272679f-de0d-4630-a570-66deba5c9b15" width="300">
+<img src="https://github.com/Nikitakandwal/kai/assets/98966392/6e5fdec8-b9f3-4e80-93d8-ccebef3dc87b" width="300">
+
+
+## Demo Video
+
+https://github.com/Nikitakandwal/kai/assets/98966392/7f6053e1-0504-4c85-bb86-58d3a9817730
+
+
